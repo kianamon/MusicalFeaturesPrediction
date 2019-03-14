@@ -62,5 +62,5 @@ In order to use the notebooks of this project, you will need the following:<br>
 `tqdm`<br>
 `jupyter`<br>
 `python-dotenv`<br>
-
+<br>
 For more information please email: <km3436@drexel.edu>

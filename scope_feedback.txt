@@ -1,0 +1,8 @@
+The data presentation and summary/exploration you have provided is excellent! It appears that the data you've identified has many nice features for exploration and is very detailed and characterized.
+
+My biggest concern has to do with your project Objective! In particular, you've identified that you're interested in predicting the Instrumental-ness, etc., of a song. From your discussion, it appears that this information will come from the Echonest data, but it's not clear to me how it was developed there! In particular, is, e.g., Acoustic-ness something that is already determined algorithmically by Defferrand et al.? If so, then the best you can hope for is the reproduction of the algorithms used by  Defferrand et al., which is not a 'truth' for prediction! Please make sure you clarify how the target data (for prediction) were constructed, since these will constitute the 'truth' that you aiming to predict in this supervised machine learning approach. 
+
+For prediction of features like Genre, I'm less concerned, as it's clear to me from your write up that this information is provided by artists, and perhaps you wish to write an algorithm that selects songs to play by genre relevance, which might be computed by the wide range of features, and potentially not available for a less curated dataset.
+
+
+

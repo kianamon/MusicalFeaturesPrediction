@@ -43,10 +43,12 @@ The following notebooks and scripts, stored in this repository, have been develo
 1. [Music]: The main code and general information can be found here. The map of the notebooks is described in this file as well.
 1. [ArtistsInput]: Develops a model for predicting the top genre based on track information provided in `tracks.csv`.
 2. [GenrePrediction]: Develops two models for predicting the top genre based on audio features provided in `features.csv` and applies the model to couple of randomly selected songs of our choosing to predict the closest genre.
+3. [ArtistPopularity]: Develops a linear regression model for predicting artist's general popularity based on audio and social features of the track.
 
-[Music]:     https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/Music.ipynb
-[ArtistsInput]:     https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/ArtistsInput.ipynb
-[GenrePrediction]:     https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/GenrePrediction.ipynb
+[Music]:  https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/Music.ipynb
+[ArtistsInput]: https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/ArtistsInput.ipynb
+[GenrePrediction]:  https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/GenrePrediction.ipynb
+[ArtistPopularity]: https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/ArtistPopularity.ipynb
 
 
 ## Requirements

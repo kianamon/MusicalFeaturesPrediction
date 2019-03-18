@@ -61,23 +61,11 @@ Genre prediction model can be used on any .mp3 formatted audio file. In order to
 ## Requirements
 In order to use the notebooks of this project, you will need the following:<br>
 
-Markdown | Less | Pretty
+`pandas` | `librosa` | `numpy`
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+`matplotlib` | `seaborn` | `scikit-learn`
+`requests` | `pydot` | `tqdm`
+`jupyter` | `python-dotenv` | `yellowbrick`
+`pytorch` | . | .
 
-`pandas`<br>
-`librosa`<br>
-`numpy`<br>
-`matplotlib`<br>
-`seaborn`<br>
-`scikit-learn`<br>
-`requests`<br>
-`pydot`<br>
-`tqdm`<br>
-`jupyter`<br>
-`python-dotenv`<br>
-`yellowbrick`<br>
-`pytorch`<br>
-<br>
 For more information please email: <km3436@drexel.edu>

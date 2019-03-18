@@ -60,7 +60,7 @@ Genre prediction model can be used on any .mp3 formatted audio file. In order to
 
 ## Requirements
 In order to use the notebooks of this project, you will need the following:<br>
-
+| ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |

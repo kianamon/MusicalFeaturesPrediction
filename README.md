@@ -55,6 +55,9 @@ The following notebooks and scripts, stored in this repository, have been develo
 [ArtistPopularity]: https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/ArtistPopularity.ipynb
 [ArtistPopularity]: https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/ArtistPopularity.ipynb
 
+## Implementing Genre Prediction
+Genre prediction model can be used on any .mp3 formatted audio file. In order to apply the model to the audio file, please run [Application] notebook with the correct file path. (The error faced is due to using the code for only one song at a time and can be ignored.) After ececution of this code, a .csv data file will be produced in data directory and can be used for applying the model.
+[Application]:  https://nbviewer.jupyter.org/github/kianamon/MusicalFeaturesPrediction/blob/master/Application.ipynb
 
 ## Requirements
 In order to use the notebooks of this project, you will need the following:<br>

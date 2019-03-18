@@ -65,10 +65,10 @@ First Header  | Second Header | Third Header |
  ------------ | :-----------: | -----------: |
 Content       |          *Long Cell*        ||
 Content       |   **Cell**    |         Cell |
-`matplotlib` | `seaborn` | `scikit-learn`
-`requests` | `pydot` | `tqdm`
-`jupyter` | `python-dotenv` | `yellowbrick`
-`pytorch` | . | .
-`pandas` | `librosa` | `numpy`
+`matplotlib`  | `seaborn`     | `scikit-learn`|
+`requests` | `pydot` | `tqdm`|
+`jupyter` | `python-dotenv` | `yellowbrick`|
+`pytorch` | . | .|
+`pandas` | `librosa` | `numpy`|
 
 For more information please email: <km3436@drexel.edu>

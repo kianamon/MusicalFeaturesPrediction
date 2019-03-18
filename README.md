@@ -60,7 +60,7 @@ Genre prediction model can be used on any .mp3 formatted audio file. In order to
 
 ## Requirements
 In order to use the notebooks of this project, you will need the following:<br>
-|Libraries In Use||
+|Libraries In Use|||
 --- | --- | ---
 `matplotlib` | `seaborn` | `scikit-learn`
 `requests` | `pydot` | `tqdm`

@@ -1,7 +1,7 @@
 # Musical Features Prediction Using Machine Learning Algorithms
 
 [Kiana Montazeri](https://github.com/kianamon)<sup>1</sup>, [Farnaz Ghashami](https://github.com/FarnazGhashami)<sup>1</sup>,
-[Shideh Shams Amiri](https://github.com/shidehsh)<sup>1</sup>.<br>
+[Shideh Shams Amiri](https://github.com/shidehsh)<sup>1</sup>.<br><br>
 <sup>1</sup>[Drexel University, Philadelphia, PA](https://drexel.edu/cci/academics/information-science-department/)
 
 [FMA]:       https://freemusicarchive.org

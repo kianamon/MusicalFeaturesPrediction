@@ -72,6 +72,6 @@ In order to use the notebooks of this project, you will need the following:<br>
 `jupyter`<br>
 `python-dotenv`<br>
 `yellowbrick`<br>
-`keras`<br>
+`pytorch`<br>
 <br>
 For more information please email: <km3436@drexel.edu>
